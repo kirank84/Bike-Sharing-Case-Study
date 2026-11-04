@@ -1,0 +1,3 @@
+Rush-hour average: 385.77
+Other-hour average: 127.40
+P-value: 3.180863e-210
